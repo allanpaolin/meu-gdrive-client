@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/allan/Documentos/meu-gdrive-client/meu-gdrive-client
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[pt_BR]=/home/allan/Documentos/meu-gdrive-client/meu-gdrive-client
+Comment[pt_BR]=Sem descrição
+X-GNOME-Autostart-Delay=0

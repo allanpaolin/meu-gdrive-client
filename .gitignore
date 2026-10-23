@@ -1,0 +1,25 @@
+# Ignorar binários compilados
+meu-gdrive-client
+
+# Binários e executáveis compilados
+meu-gdrive-client
+*.exe
+*.out
+
+# Credenciais e Tokens do Google Cloud (CRÍTICO - NUNCA SUBIR)
+credentials.json
+token.json
+
+# Banco de dados local do SQLite e arquivos temporários de transação
+metadata.db
+metadata.db-shm
+metadata.db-wal
+
+# Pastas de cache e staging local do FUSE
+.cache/
+staging/
+
+# Arquivos de sistema operacional
+.DS_Store
+.Trash*
+.directory
